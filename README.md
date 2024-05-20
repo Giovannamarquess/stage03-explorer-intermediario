@@ -9,4 +9,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 <br>
 
-Feito com ♥ por <a href="https://www.linkedin.com/in/giovannamarques/" target:_blank><b></b>Giovanna Marques</b></a> 
+<p align="center">
+  <img alt="projeto Quiz CRM" src="https://i.imgur.com/VN1dLBh.png" width="100%">
+</p>
+
+Feito com ❤ por
+        <a href="https://br.linkedin.com/in/giovannamarques/" target="_blank"
+          >Giovanna Marques</a
+        >
